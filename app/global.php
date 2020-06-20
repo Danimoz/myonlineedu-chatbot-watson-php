@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-const C_BASE_URL = 'http://localhost/demo/chatbot/';
+const C_BASE_URL = 'http://localhost/chatbot/';
 
 //
 function escape($str)
